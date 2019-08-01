@@ -17,9 +17,9 @@ h1 {
 .item {
  border: none;
  padding: 10px;
- margin-top: 15px;
+ margin-top: 10px;
  margin-right: auto;
- margin-bottom: 15px;
+ margin-bottom: 10px;
  margin-left: auto;
  background: #dedede;
 }
