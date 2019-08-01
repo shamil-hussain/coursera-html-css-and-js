@@ -14,6 +14,13 @@ h1 {
 .row {
  width: 100%;
 }
+
+section {
+ position: relative;
+ width: 50%;
+ height: 150px;
+}
+
 .item {
  border: none;
  padding: 10px;
