@@ -25,6 +25,7 @@ p {
 }
 
 section {
+ overflow: auto;
  position: relative;
  border: 1px solid black;
  width: 100%;
@@ -47,9 +48,7 @@ section {
 #beef {
  font-size: 20px;
  padding: 5px;
- border: 3px solid black;
- border-right: none;
- border-top: none;
+ border: 1px solid black;
  width: 20%;
  text-align: center;
  margin-left: 80%;
@@ -61,9 +60,7 @@ section {
 #sushi {
  font-size: 20px;
  padding: 5px;
- border: 3px solid black;
- border-right: none;
- border-top: none;
+ border: 1px solid black;
  width: 20%;
  text-align: center;
  margin-left: 80%;
