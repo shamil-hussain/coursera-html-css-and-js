@@ -27,7 +27,7 @@ p {
 section {
  position: relative;
  overflow: auto;
- border: 3px solid black;
+ border: 1px solid black;
  width: 100%;
  height: 200px;
  width: 100%;
@@ -37,9 +37,7 @@ section {
 #chicken {
  font-size: 125%;
  padding: 5px;
- border: 3px solid black;
- border-right: none;
- border-top: none;
+ border: 1px solid black;
  width: 20%;
  text-align: center;
  margin-left: 80%;
