@@ -1,1 +1,32 @@
+/* base code */
+* {
+ box-sizing: border-box;
+}
 
+body {
+ background: url("background-module-2.jpg");
+ 
+}
+
+h1 {
+ text-align: center;
+}
+
+.item {
+ border: none;
+ padding: 10px;
+ margin-top: 15px;
+ margin-right: auto;
+ margin-bottom: 15px;
+ margin-left: auto;
+}
+
+#chicken {
+ border: 1px solid;
+ border-color: #000000;
+ background: #f57f8f;
+ text-align: center;
+ width: 50px;
+ height: 10px;
+ margin: 0px 0px 0px 75px;
+}
