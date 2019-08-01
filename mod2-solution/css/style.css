@@ -5,6 +5,8 @@
 
 body {
  background: url("background-module-2.jpg");
+ background-repeat: none;
+ background-size: cover;
  
 }
 
