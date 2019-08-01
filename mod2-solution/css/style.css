@@ -54,7 +54,7 @@ section {
  margin-left: 80%;
  font-family: Arial, Helvetica, sans-serif;
  background: #963838;
- font-family: Arial, Helvetica, sans-serif
+ font-family: Arial, Helvetica, sans-serif;
 }
 
 #sushi {
@@ -64,7 +64,9 @@ section {
  width: 20%;
  text-align: center;
  margin-left: 80%;
- font-family: Arial, Helvetica, sans-serif
+ font-family: Arial, Helvetica, sans-serif;
+ background: #a69949
+
 }
 
 /* Large view (computer)  based off of lecture 24 */
