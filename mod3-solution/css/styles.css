@@ -1,1 +1,12 @@
+#header-nav {
+ border-radius: 0;
+ background: #060342;
+ border: 0;
+}
 
+#navbar-brand h1 {
+ color: white;
+ margin-top: -8px;
+ padding: 0;
+ 
+}
