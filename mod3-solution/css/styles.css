@@ -8,6 +8,12 @@
  color: white;
  margin-top: -8px;
  padding: 0;
+ font-family: 'Roboto Mono', monospace;
+ background: #4a95f7;
+}
+
+h1 {
+ font-family: 'Patrick Hand', cursive;
 }
 
 #nav-list hr {
@@ -41,5 +47,12 @@
 
 #chicken p {
  padding: 20px;
+ font-family: 'Patrick Hand', cursive;
+ font-size: 20px;
 }
+
+#chicken h3 {
+ font-family: 'Patrick Hand', cursive;
+}
+
 
