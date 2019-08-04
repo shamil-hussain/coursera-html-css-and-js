@@ -1,6 +1,6 @@
 #header-nav {
  border-radius: 0;
- background: #060342;
+ background: #02002e;
  border: 0;
 }
 
@@ -8,5 +8,38 @@
  color: white;
  margin-top: -8px;
  padding: 0;
- 
 }
+
+#nav-list hr {
+ width: 100%;
+}
+
+#nav-list a {
+ color: black;
+} 
+
+#nav-list a:hover {
+ color: #616161;
+}
+
+@media (max-width : 768px) {
+   #collapsable-nav{
+   	background-color: #ababab;
+   	text-align: center;
+   	color: white;
+   }
+}
+
+#chicken {
+ padding: 10px;
+ background: #9e9e9e;
+ color: black;
+ margin: 20px;
+ height: 1000px;
+ overflow: hidden;
+}
+
+#chicken p {
+ padding: 20px;
+}
+
